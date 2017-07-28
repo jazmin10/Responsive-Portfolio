@@ -1,10 +1,10 @@
 # Mobile Responsiveness?
 
-## Overview
+### Overview
 
 This project is an update of my `Basic-Portfolio` repository by integrating a mobile-responsive layout with media-queries.
 
-## Screenshots 
+#### Screenshots 
 
 I had to replicate the following screenshots for each page:
 
